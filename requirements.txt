@@ -17,7 +17,7 @@ djangorestframework==3.14.0
 docopt==0.6.2
 executing==2.0.1
 Flask==3.0.0
-Flask-Cors==4.0.0
+Flask-Cors==4.0.1
 Flask-Login==0.6.3
 Flask-SocketIO==5.3.6
 Flask-Sockets==0.2.1
