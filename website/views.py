@@ -18,7 +18,7 @@ def index():
 def send_command():
     
     
-    nodemcu_address = "192.168.8.191"
+    nodemcu_address = "192.168.139.221"
     nodemcu_port = 80 # Default HTTP port
     
     
