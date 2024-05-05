@@ -19,7 +19,7 @@ def send_command():
     
     
     nodemcu_address = "192.168.8.191"
-    nodemcu_port = 80 # Default HTTP port
+    nodemcu_port = 8080 # Default HTTP port
     
     
     if request.method == 'POST':
